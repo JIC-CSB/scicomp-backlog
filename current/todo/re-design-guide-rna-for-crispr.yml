@@ -1,0 +1,4 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  storypoints: 5
+  title: Re-design guide RNA for CrispR

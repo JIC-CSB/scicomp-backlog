@@ -1,0 +1,4 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  storypoints: 5
+  title: Write 'blog post' on a sample image analysis project

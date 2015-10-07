@@ -1,0 +1,5 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  storypoints: 8
+  title: Update ipython notebook training material with more realistic examples (to
+    motivate)

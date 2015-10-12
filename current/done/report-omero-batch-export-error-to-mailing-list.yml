@@ -1,4 +1,0 @@
---- !!python/object/new:jicagile.Task
-dictitems:
-  storypoints: 3
-  title: Report OMERO batch export error to mailing list

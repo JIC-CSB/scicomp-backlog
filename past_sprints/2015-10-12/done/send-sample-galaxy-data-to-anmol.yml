@@ -1,0 +1,4 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  storypoints: 3
+  title: Send sample galaxy data to Anmol

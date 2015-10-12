@@ -1,0 +1,4 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  storypoints: 3
+  title: Add Travis CI testing for jicbioimage.illustrate

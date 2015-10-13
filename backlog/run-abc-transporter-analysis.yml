@@ -1,4 +1,5 @@
 --- !!python/object/new:jicagile.Task
 dictitems:
+  primary_contact: MV
   storypoints: 1
   title: Run ABC transporter analysis

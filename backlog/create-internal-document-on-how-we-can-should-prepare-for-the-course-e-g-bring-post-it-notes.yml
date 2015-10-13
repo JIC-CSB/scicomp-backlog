@@ -1,5 +1,6 @@
 --- !!python/object/new:jicagile.Task
 dictitems:
+  primary_contact: TO
   storypoints: 3
   title: Create internal document on how we can should prepare for the course (e.g.
     bring post-it notes)

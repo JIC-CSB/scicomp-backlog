@@ -1,4 +1,5 @@
 --- !!python/object/new:jicagile.Task
 dictitems:
+  primary_contact: TO
   storypoints: 1
   title: Send details of existing OMERO servers to Matt and Grant

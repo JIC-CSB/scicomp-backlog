@@ -1,4 +1,5 @@
 --- !!python/object/new:jicagile.Task
 dictitems:
+  primary_contact: TO
   storypoints: 5
   title: Ask John to talk us through his 3D visualiser

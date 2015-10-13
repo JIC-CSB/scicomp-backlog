@@ -1,3 +1,5 @@
----
-storypoints: 8
-title: Prepare Galaxy for Italy retreat (ask Anmol for help)
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: MC
+  storypoints: 8
+  title: Prepare Galaxy for Italy retreat (ask Anmol for help)

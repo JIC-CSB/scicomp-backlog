@@ -1,4 +1,5 @@
 --- !!python/object/new:jicagile.Task
 dictitems:
+  primary_contact: TO
   storypoints: 5
   title: Create document outlining how participants should prepare for the Python

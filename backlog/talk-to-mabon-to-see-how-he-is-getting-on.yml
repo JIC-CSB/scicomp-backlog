@@ -1,3 +1,5 @@
----
-storypoints: 5
-title: Talk to Mabon to see how he is getting on
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: MC
+  storypoints: 5
+  title: Talk to Mabon to see how he is getting on

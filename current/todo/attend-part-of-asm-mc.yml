@@ -1,4 +1,5 @@
 --- !!python/object/new:jicagile.Task
 dictitems:
+  primary_contact: MC
   storypoints: 8
   title: Attend part of ASM MC

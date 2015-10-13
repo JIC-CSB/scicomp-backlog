@@ -1,3 +1,5 @@
----
-storypoints: 3
-title: Draft introduction to reconstruction paper
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: MH
+  storypoints: 3
+  title: Draft introduction to reconstruction paper

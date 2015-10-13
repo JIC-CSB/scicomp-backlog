@@ -1,4 +1,5 @@
 --- !!python/object/new:jicagile.Task
 dictitems:
+  primary_contact: MH
   storypoints: 3
   title: Setup meeting with Martin Trick and Richard Morris

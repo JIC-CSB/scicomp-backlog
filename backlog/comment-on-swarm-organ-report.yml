@@ -1,3 +1,5 @@
----
-storypoints: 5
-title: Comment on Swarm organ report
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: MH
+  storypoints: 5
+  title: Comment on Swarm organ report

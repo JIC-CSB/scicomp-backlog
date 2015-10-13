@@ -1,4 +1,5 @@
 --- !!python/object/new:jicagile.Task
 dictitems:
+  primary_contact: MC
   storypoints: 5
   title: Run Fisher test on Antirhinum species

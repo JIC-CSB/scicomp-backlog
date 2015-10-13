@@ -1,3 +1,5 @@
----
-storypoints: 1
-title: Contact Sam about 3D reconstruction
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: MH
+  storypoints: 1
+  title: Contact Sam about 3D reconstruction

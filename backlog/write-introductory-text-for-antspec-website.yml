@@ -1,3 +1,5 @@
----
-storypoints: 3
-title: Write introductory text for AntSpec website
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: MC
+  storypoints: 3
+  title: Write introductory text for AntSpec website

@@ -1,4 +1,5 @@
 --- !!python/object/new:jicagile.Task
 dictitems:
+  primary_contact: MH
   storypoints: 8
   title: Produce curated segementaiton of two adjacent slices of Xana's data

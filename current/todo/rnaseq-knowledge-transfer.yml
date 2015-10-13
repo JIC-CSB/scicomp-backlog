@@ -1,4 +1,5 @@
 --- !!python/object/new:jicagile.Task
 dictitems:
+  primary_contact: MV
   storypoints: 5
   title: RNASeq knowledge transfer

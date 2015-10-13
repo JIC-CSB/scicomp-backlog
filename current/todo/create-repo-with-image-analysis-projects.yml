@@ -1,4 +1,5 @@
 --- !!python/object/new:jicagile.Task
 dictitems:
+  primary_contact: MH
   storypoints: 1
   title: Create repo with image analysis projects (for blog posts)

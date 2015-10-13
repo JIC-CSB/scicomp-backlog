@@ -1,4 +1,5 @@
 --- !!python/object/new:jicagile.Task
 dictitems:
+  primary_contact: MC
   storypoints: 3
   title: Finish configuring Momina's software

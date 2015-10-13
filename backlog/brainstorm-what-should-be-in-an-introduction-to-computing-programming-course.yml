@@ -1,4 +1,5 @@
 --- !!python/object/new:jicagile.Task
 dictitems:
+  primary_contact: TO
   storypoints: 5
   title: Brainstorm what should be in an introduction to computing (programming) course

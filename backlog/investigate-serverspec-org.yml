@@ -1,0 +1,5 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: null
+  storypoints: 5
+  title: Investigate serverspec.org

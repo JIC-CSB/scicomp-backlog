@@ -1,0 +1,5 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: TO
+  storypoints: 8
+  title: Create projection of a phase of a cell of interest in Jordi's data

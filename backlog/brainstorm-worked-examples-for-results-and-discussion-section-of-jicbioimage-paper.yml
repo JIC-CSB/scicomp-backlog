@@ -1,0 +1,6 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: TO
+  storypoints: 5
+  title: Brainstorm worked examples for results and discussion section of jicbioimage
+    paper

@@ -1,5 +1,5 @@
 --- !!python/object/new:jicagile.Task
 dictitems:
   primary_contact: MC
-  storypoints: 8
-  title: Prepare for Galaxy training
+  storypoints: 5
+  title: Upload found AntSpec data.

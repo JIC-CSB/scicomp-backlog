@@ -1,5 +1,5 @@
 --- !!python/object/new:jicagile.Task
 dictitems:
   primary_contact: MH
-  storypoints: 1
-  title: Recommend books to Enrique
+  storypoints: 3
+  title: Bug Martin Trick for course material

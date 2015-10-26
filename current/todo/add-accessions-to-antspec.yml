@@ -1,5 +1,5 @@
 --- !!python/object/new:jicagile.Task
 dictitems:
   primary_contact: MC
-  storypoints: 5
-  title: Upload OMERO test data to omero dev server
+  storypoints: 8
+  title: Add accessions to AntSpec

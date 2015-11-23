@@ -1,0 +1,5 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: MH
+  storypoints: 8
+  title: Write up worked example for cluster course on how to move data to cluster

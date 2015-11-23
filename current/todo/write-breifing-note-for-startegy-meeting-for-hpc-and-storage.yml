@@ -1,0 +1,5 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: MH
+  storypoints: 8
+  title: Write breifing note for startegy meeting for HPC and storage

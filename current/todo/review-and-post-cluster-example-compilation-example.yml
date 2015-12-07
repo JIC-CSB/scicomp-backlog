@@ -1,5 +1,5 @@
 --- !!python/object/new:jicagile.Task
 dictitems:
-  primary_contact: MH
+  primary_contact: TO
   storypoints: 5
   title: Review and post cluster example/compilation example

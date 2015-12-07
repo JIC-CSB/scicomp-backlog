@@ -1,0 +1,5 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: null
+  storypoints: 8
+  title: Add IPython notebooks to jicbioimage GitHub pages

@@ -1,0 +1,5 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: TO
+  storypoints: 5
+  title: Work out how to configure Kerberos on a Vagrant VM using Ansible

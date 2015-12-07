@@ -1,0 +1,6 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: null
+  storypoints: 8
+  title: Brainstorm ideas for how to implement logging of settings in transforms and
+    using history as a workflow

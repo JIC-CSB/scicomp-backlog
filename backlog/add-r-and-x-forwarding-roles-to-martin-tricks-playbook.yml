@@ -1,0 +1,5 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: TO
+  storypoints: 5
+  title: Add R and X forwarding roles to Martin Trick's playbook

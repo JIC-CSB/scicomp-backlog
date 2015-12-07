@@ -1,6 +1,0 @@
---- !!python/object/new:jicagile.Task
-dictitems:
-  primary_contact: TO
-  storypoints: 5
-  title: Configure resource vm (using Ansible) to enable relevant docs services to
-    start on boot.

@@ -1,0 +1,5 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: TO
+  storypoints: 5
+  title: Switch jicbioimage TIFF loading dependency from scikit-image to tifffile

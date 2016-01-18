@@ -1,5 +1,5 @@
 --- !!python/object/new:jicagile.Task
 dictitems:
   primary_contact: TO
-  storypoints: 5
-  title: Brainstorm SLURM testing checklist
+  storypoints: 1
+  title: jicagile reminder for MV

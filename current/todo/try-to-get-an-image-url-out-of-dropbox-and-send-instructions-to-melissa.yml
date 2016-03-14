@@ -1,0 +1,5 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: TO
+  storypoints: 3
+  title: Try to get an image URL out of dropbox and send instructions to Melissa

@@ -1,0 +1,5 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: MC
+  storypoints: 8
+  title: Running bisulfite pipeline for Xiao

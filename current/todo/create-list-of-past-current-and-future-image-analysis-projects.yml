@@ -1,0 +1,5 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: TO
+  storypoints: 3
+  title: Create list of past, current and future image analysis projects

@@ -1,5 +1,0 @@
---- !!python/object/new:jicagile.Task
-dictitems:
-  primary_contact: TO
-  storypoints: 3
-  title: jicbioimage.illustrate.blank_canvas should take shape tuple

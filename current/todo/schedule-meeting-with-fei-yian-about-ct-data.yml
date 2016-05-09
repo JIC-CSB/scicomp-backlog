@@ -1,0 +1,5 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: MH
+  storypoints: 1
+  title: Schedule meeting with Fei Yian about CT data

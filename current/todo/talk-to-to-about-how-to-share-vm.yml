@@ -1,0 +1,5 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: MV
+  storypoints: 1
+  title: Talk to TO about how to share VM

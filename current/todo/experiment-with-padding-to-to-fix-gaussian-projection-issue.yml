@@ -1,0 +1,5 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: TO
+  storypoints: 5
+  title: Experiment with padding to to fix Gaussian projection issue

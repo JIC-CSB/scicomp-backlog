@@ -1,0 +1,5 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: MH
+  storypoints: 5
+  title: Contact finance about charing for HPC/storage

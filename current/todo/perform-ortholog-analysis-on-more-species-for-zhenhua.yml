@@ -1,0 +1,6 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: MV
+  storypoints: 8
+  theme: bioinf
+  title: Perform ortholog analysis on more species for Zhenhua

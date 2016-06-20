@@ -1,0 +1,19 @@
+---
+- lookup: training
+  description: Writing and giving training
+- lookup: admin
+  description: Email, forms, meetings, etc
+- lookup: bioinf
+  description: Bioinformatics analysis
+- lookup: image
+  description: Image analysis projects
+- lookup: cpd
+  description: Continuous professional development
+- lookup: sysadmin
+  description: Provision servers and desktops
+- lookup: presenting
+  description: Writing and giving presentations
+- lookup: hpc
+  description: Helping people use and install software on the cluster
+- lookup: tooldev
+  description: Create in-house data analysis tools

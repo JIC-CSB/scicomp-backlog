@@ -1,0 +1,6 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: MV
+  storypoints: 1
+  theme: admin
+  title: Register for OpenPlant forum

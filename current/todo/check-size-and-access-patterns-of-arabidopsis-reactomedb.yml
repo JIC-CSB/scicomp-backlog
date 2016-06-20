@@ -2,4 +2,5 @@
 dictitems:
   primary_contact: MC
   storypoints: 5
+  theme: sysadmin
   title: Check size and access patterns of Arabidopsis ReactomeDB

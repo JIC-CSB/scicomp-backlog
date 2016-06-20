@@ -2,4 +2,5 @@
 dictitems:
   primary_contact: MC
   storypoints: 8
+  theme: bioinf
   title: Finish gff perl modules for Martin

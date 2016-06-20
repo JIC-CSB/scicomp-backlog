@@ -2,4 +2,5 @@
 dictitems:
   primary_contact: MV
   storypoints: 8
+  theme: bioinf
   title: Design SQL table

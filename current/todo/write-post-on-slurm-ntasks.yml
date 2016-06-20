@@ -2,4 +2,5 @@
 dictitems:
   primary_contact: MH
   storypoints: 5
+  theme: hpc
   title: Write post on SLURM ntasks

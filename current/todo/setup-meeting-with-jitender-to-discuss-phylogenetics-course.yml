@@ -1,0 +1,6 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: MV
+  storypoints: 3
+  theme: training
+  title: Setup meeting with Jitender to discuss phylogenetics course

@@ -1,0 +1,6 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: DA
+  storypoints: 5
+  theme: ''
+  title: Learn about the difference between static and dynamic websites

@@ -1,0 +1,6 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: DA
+  storypoints: 3
+  theme: ''
+  title: Register for an account on GitHub

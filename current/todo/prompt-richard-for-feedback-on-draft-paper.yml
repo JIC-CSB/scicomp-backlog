@@ -1,0 +1,6 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: TO
+  storypoints: 1
+  theme: admin
+  title: Prompt Richard for feedback on draft paper

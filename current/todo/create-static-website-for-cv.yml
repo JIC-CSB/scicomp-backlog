@@ -1,0 +1,6 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: DA
+  storypoints: 8
+  theme: ''
+  title: Create static website for CV

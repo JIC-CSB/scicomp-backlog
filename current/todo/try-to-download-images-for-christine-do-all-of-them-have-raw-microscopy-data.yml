@@ -1,0 +1,7 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: TO
+  storypoints: 3
+  theme: image
+  title: Try to download images for Christine; do all of them have raw microscopy
+    data

@@ -1,0 +1,6 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: TO
+  storypoints: 8
+  theme: image
+  title: Try to identify plots of interest in senesence data

@@ -1,0 +1,6 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: TO
+  storypoints: 3
+  theme: image
+  title: Add more detail to jicbioimage paper figure legends

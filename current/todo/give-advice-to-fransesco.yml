@@ -1,0 +1,6 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: MV
+  storypoints: 5
+  theme: bioinf
+  title: Give advice to Fransesco

@@ -1,6 +1,6 @@
 --- !!python/object/new:jicagile.Task
 dictitems:
   primary_contact: MV
-  storypoints: 3
+  storypoints: 5
   theme: bioinf
-  title: Contact Cindy about OpenPlant project
+  title: Flaking avr region for Leticia

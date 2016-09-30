@@ -1,0 +1,6 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: MH
+  storypoints: 5
+  theme: admin
+  title: Meet Kim and David with regards to CryoEM bid

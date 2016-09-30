@@ -1,0 +1,6 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: MC
+  storypoints: 3
+  theme: sysadmin
+  title: Ask for OMERO nfs mount to be fixed

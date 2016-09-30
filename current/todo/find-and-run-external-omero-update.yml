@@ -1,0 +1,6 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: MH
+  storypoints: 8
+  theme: sysadmin
+  title: Find and run external omero update

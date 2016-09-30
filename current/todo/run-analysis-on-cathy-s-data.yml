@@ -1,0 +1,6 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: TO
+  storypoints: 5
+  theme: image
+  title: Run analysis on Cathy's data

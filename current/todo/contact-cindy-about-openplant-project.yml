@@ -1,0 +1,5 @@
+--- !!python/object/new:jicagile.Task
+dictitems:
+  primary_contact: MV
+  storypoints: 3
+  title: Contact Cindy about OpenPlant project
